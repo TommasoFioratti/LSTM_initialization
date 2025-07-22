@@ -1,2 +1,2 @@
 # ML-CFM
-This repository contains materials on the initialization of parameters in Deep-Learning models I collected during my internship at CFM
+This repository contains materials on the initialization of weights in Deep-NN I collected during my internship at CFM
