@@ -1,2 +1,2 @@
 # ML-CFM
-This repository contains materials on the initialization of weights in Deep-NN I collected during my internship at CFM
+This repository contains the work I have done at CFM on the initialization of parameters of LSTM-RNN
